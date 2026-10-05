@@ -24,7 +24,7 @@ logged, and everyone keeps their own keys and signs their own trades.
 - **Validate.** Grok agents check X for real attention versus paid shills and bot-like hype. If the
   two disagree, a human looks.
 - **Log everything.** Ideas, trades, airdrops and payouts, so members learn from their own data.
-- **Contributor rewards.** Whoever posts the call shares in the profit members make on it.
+- **Contributor rewards.** Members pay a 20% platform fee on profit; half of it (10% of the profit) goes to whoever posted the call. Your own trades on your own calls don't count.
 - **Your keys.** Nobody pools money. Vault, trading and burner wallets; the app stores public
   addresses only.
 
