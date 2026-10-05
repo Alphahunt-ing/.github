@@ -46,3 +46,5 @@ logged, and everyone keeps their own keys and signs their own trades.
 Contact: **contact@alphahunt.ing** · There is no public sign-up; invites come from members.
 
 **Not financial advice.** AlphaHunt has published no returns or performance figures.
+
+AlphaHunt is a venture of [Factory Zero](https://factory0.ventures).
